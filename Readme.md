@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Tetiana Shnore](https://up.htmlacademy.ru/javascript/23/user/1644719).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Васинская](https://htmlacademy.ru/profile/vanastasiya).
 
 ---
 
